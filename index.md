@@ -22,6 +22,6 @@ feature_row:
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
 ---
 
-{% include sidebar.html}
+{% include sidebar.html %}
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
