@@ -6,7 +6,7 @@ layout: splash
 header:
   overlay_image: /assets/images/header2.jpg
 intro: 
-  - excerpt: 'Our aim is to build a low-cost device for capturing retinal fundus images and intergrate it with machine learning based software to detect Diabetic Retinopathy from the captured images. This is an extension of the Open Indirect Ophthalmoscope project'
+  - excerpt: 'Our aim is to build a low-cost device for capturing retinal fundus images and equip it with Artificial Intelligence based software to detect Diabetic Retinopathy from the images. This is an extension of the Open Indirect Ophthalmoscope project.'
 feature_row:
   - image_path: /assets/images/announce_blue.png
     alt: "customizable"
@@ -17,11 +17,11 @@ feature_row:
     title: "Responsive layouts"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
   - image_path: /assets/images/announce_blue.png
-    alt: "100% free"
-    title: "100% free"
+    alt: "Join us"
+    title: "Join us"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
 ---
 
-
+{% include sidebar.html}
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
