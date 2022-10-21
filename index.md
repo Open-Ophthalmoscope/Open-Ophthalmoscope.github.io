@@ -3,12 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: splash
+excerpt: Our aim is to build a low-cost device for capturing retinal fundus images and intergrate it with machine learning based software to detect Diabetic Retinopathy from the captured images. This is an extension of the Open Indirect Ophthalmoscope project. 
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/header2.jpg
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: /assets/images/announce_blue.png
     alt: "customizable"
@@ -23,5 +20,7 @@ feature_row:
     title: "100% free"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
 ---
+
+
 
 {% include feature_row %}
