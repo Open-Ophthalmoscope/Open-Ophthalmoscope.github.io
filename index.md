@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: splash
-excerpt: Our aim is to build a low-cost device for capturing retinal fundus images and intergrate it with machine learning based software to detect Diabetic Retinopathy from the captured images. This is an extension of the Open Indirect Ophthalmoscope project. 
 header:
   overlay_image: /assets/images/header2.jpg
+intro: 
+  - excerpt: 'Our aim is to build a low-cost device for capturing retinal fundus images and intergrate it with machine learning based software to detect Diabetic Retinopathy from the captured images. This is an extension of the Open Indirect Ophthalmoscope project'
 feature_row:
   - image_path: /assets/images/announce_blue.png
     alt: "customizable"
@@ -22,5 +23,5 @@ feature_row:
 ---
 
 
-
+{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
