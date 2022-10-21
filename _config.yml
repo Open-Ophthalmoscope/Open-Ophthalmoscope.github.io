@@ -21,28 +21,6 @@
 title: Open Ophthalmoscope
 baseurl: "" # the subpath of your site, e.g. /blog
 
-
-# Site Author
-author:
-  name             : ""
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : ""
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "openophthalmoscope@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://Open-Ophthalmoscope.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
