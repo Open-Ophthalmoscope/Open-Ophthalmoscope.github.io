@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+Hello, world! 
+Welcome to our project homepage!
