@@ -6,12 +6,12 @@ layout: splash
 header:
   overlay_image: /assets/images/header2.jpg
 intro: 
-  - excerpt: 'Our aim is to build a low-cost device for capturing retinal fundus images and equip it with Artificial Intelligence based software to detect Diabetic Retinopathy from the images. This is an extension of the Open Indirect Ophthalmoscope project.'
+  - excerpt: 'Our aim is to build a low-cost device for capturing retinal fundus images and equip it with Artificial Intelligence based software to detect Diabetic Retinopathy from the images. The primary goal is to make AI based diagnostics available to a larger population, especially in developing countries. In addition, this device could be a useful tool to collect data for research purposes and improved the AI software. This is an extension of the Open Indirect Ophthalmoscope project.'
 feature_row:
-  - image_path: /assets/images/announce_blue.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/images/eye.jpg
+    alt: "About"
+    title: "About"
+    excerpt: "We are a team of researchers working on developing AI solutions for diagnosing eye diseases.""
   - image_path: /assets/images/announce_blue.png
     alt: "fully responsive"
     title: "Responsive layouts"
@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/announce_blue.png
     alt: "Join us"
     title: "Join us"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    excerpt: "We are looking for contributors! If you are interested in our project, please feel free to reach out to us by email."
 ---
 
 {% include feature_row id="intro" type="center" %}
