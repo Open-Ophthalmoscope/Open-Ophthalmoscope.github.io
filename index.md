@@ -20,7 +20,20 @@ feature_row:
     alt: "Join us"
     title: "Join us"
     excerpt: "We are looking for contributors! If you are interested in our project, please feel free to reach out to us by email."
+feature_row2:
+  - image_path: /assets/images/ophthos.png
+    alt: "Team member1"
+    title: "Kerol Djoumessi"
+    excerpt: "ADD DESC"
+  - image_path: /assets/images/ophthos.png
+    alt: "Team member2"
+    title: "Indu Ilanchezian"
+    excerpt: "ADD DESC"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
 {% include feature_row %}
+# Meet the team 
+{% include feature_row id="feature_row2" type="center" %}
+
