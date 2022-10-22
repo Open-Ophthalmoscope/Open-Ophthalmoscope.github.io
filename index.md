@@ -25,7 +25,7 @@ feature_row2:
     alt: "Team member1"
     title: "Kerol Djoumessi"
     excerpt: "ADD DESC"
-  - image_path: /assets/images/ophthos.png
+  - image_path: /assets/images/indu.png
     alt: "Team member2"
     title: "Indu Ilanchezian"
     excerpt: "ADD DESC"
