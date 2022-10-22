@@ -8,7 +8,7 @@ header:
 intro: 
   - excerpt: 'Our aim is to build a low-cost device for capturing retinal fundus images and equip it with Artificial Intelligence based software to detect Diabetic Retinopathy from the images. The primary goal is to make AI based diagnostics accesible to a larger population, especially in developing countries. In addition, this device could be a useful tool to collect data for research purposes and improve the AI software. This is an extension of the Open Indirect Ophthalmoscope project.'
 feature_row:
-  - image_path: /assets/images/eye.jpg
+  - image_path: /assets/images/work.jpg
     alt: "Who"
     title: "About us"
     excerpt: "We are a team of researchers working on developing AI solutions for diagnosing eye diseases."
