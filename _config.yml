@@ -47,3 +47,16 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+  hide                   : true # true, false (default)
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/OOphthalmoscope"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Open-Ophthalmoscope"
+
