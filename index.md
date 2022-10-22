@@ -16,7 +16,7 @@ feature_row:
     alt: "What"
     title: "Open ophthalmoscope"
     excerpt: "TO DO"
-  - image_path: /assets/images/announce_blue.png
+  - image_path: /assets/images/contribute.png
     alt: "Join us"
     title: "Join us"
     excerpt: "We are looking for contributors! If you are interested in our project, please feel free to reach out to us by email."
