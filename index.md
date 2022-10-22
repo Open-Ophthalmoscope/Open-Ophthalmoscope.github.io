@@ -12,7 +12,7 @@ feature_row:
     alt: "Who"
     title: "About us"
     excerpt: "We are a team of researchers working on developing AI solutions for diagnosing eye diseases."
-  - image_path: /assets/images/announce_blue.png
+  - image_path: /assets/images/ophthos.png
     alt: "What"
     title: "Open ophthalmoscope"
     excerpt: "TO DO"
