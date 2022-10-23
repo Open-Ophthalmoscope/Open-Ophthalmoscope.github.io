@@ -6,7 +6,7 @@ layout: splash
 header:
   overlay_image: /assets/images/header2.jpg
 intro: 
-  - excerpt: 'Our aim is to build a low-cost device for capturing retinal fundus images and equip it with Artificial Intelligence based software to detect Diabetic Retinopathy from the images. The primary goal is to make AI based diagnostics accesible to a larger population, especially in developing countries. In addition, this device could be a useful tool to collect data for research purposes and improve the AI software. This is an extension of the Open Indirect Ophthalmoscope project.'
+  - excerpt: 'Our aim is to build a low-cost device for capturing retinal fundus images and equip it with Artificial Intelligence based software to detect Diabetic Retinopathy from the images. The primary goal is to make AI based diagnostics accesible to a larger population, especially in developing countries. In addition, this device could be a useful tool to collect data for research purposes and improve the AI software. This is an extension of the Open Indirect Ophthalmoscope project (OIO).'
 feature_row:
   - image_path: /assets/images/work.png
     alt: "Who"
@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/ophthos.png
     alt: "What"
     title: "Open ophthalmoscope"
-    excerpt: "Our first task is to replicate the <a href="https://hackaday.io/project/11943-open-indirect-ophthalmoscope"> OIO </a>  and improve its documentation so that ophthalmologists and other researchers with limited resources can easily mount it to collect and diagnose fundus images."
+    excerpt: "Our first task is to replicate the OIO  and improve its documentation so that ophthalmologists and other researchers with limited resources can easily mount it to collect and diagnose fundus images."
   - image_path: /assets/images/contribute.png
     alt: "Join us"
     title: "Join us"
