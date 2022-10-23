@@ -11,11 +11,11 @@ feature_row:
   - image_path: /assets/images/work.png
     alt: "Who"
     title: "About us"
-    excerpt: "We are a team of researchers working on developing AI solutions for diagnosing eye diseases."
+    excerpt: "We are a team of researchers working on the development of explainable AI solutions for the diagnosis of eye diseases (mainly Diabetic Retinopathy)."
   - image_path: /assets/images/ophthos.png
     alt: "What"
     title: "Open ophthalmoscope"
-    excerpt: "Our first task is to replicate the OIO and improve its documentation so that ophthalmologists and other researchers with limited resources can easily mount it to collect and diagnose fundus images."
+    excerpt: "Our first task is to replicate the <a href="https://hackaday.io/project/11943-open-indirect-ophthalmoscope"> <abbr title="Open-Indirect-Ophthalmoscope">WOIOHO</abbr> </a>  and improve its documentation so that ophthalmologists and other researchers with limited resources can easily mount it to collect and diagnose fundus images."
   - image_path: /assets/images/contribute.png
     alt: "Join us"
     title: "Join us"
@@ -23,10 +23,12 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/kerol.png
     alt: "Team member1"
-    title: "Kerol Djoumessi"
+    title: "DJOUMESSI Kerol"
+    excerpt: "ADD DESC"
   - image_path: /assets/images/indu.png
     alt: "Team member2"
     title: "Indu Ilanchezian"
+    excerpt: "ADD DESC"
 
 ---
 
