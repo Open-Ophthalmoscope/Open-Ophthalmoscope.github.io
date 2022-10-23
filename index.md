@@ -15,13 +15,13 @@ feature_row:
   - image_path: /assets/images/ophthos.png
     alt: "What"
     title: "Open ophthalmoscope"
-    excerpt: "TO DO"
+    excerpt: "Our first task is to replicate the OIO and improve its documentation so that ophthalmologists and other researchers with limited resources can easily mount it to collect and diagnose fundus images."
   - image_path: /assets/images/contribute.png
     alt: "Join us"
     title: "Join us"
     excerpt: "We are looking for contributors! If you are interested in our project, please feel free to reach out to us by email."
 feature_row2:
-  - image_path: /assets/images/ophthos.png
+  - image_path: /assets/images/kerol.png
     alt: "Team member1"
     title: "Kerol Djoumessi"
   - image_path: /assets/images/indu.png
