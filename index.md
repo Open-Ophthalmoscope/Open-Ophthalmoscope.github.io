@@ -21,7 +21,7 @@ feature_row:
     title: "Join us"
     excerpt: "We are looking for contributors! If you are interested in our project, please feel free to reach out to us by email."
 feature_row2:
-  - image_path: /assets/images/ker_.png
+  - image_path: /assets/images/kerol.png
     alt: "Team member1"
     title: "Kerol Djoumessi"
     excerpt: "ADD DESC"
