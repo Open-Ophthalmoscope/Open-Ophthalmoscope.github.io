@@ -24,11 +24,9 @@ feature_row2:
   - image_path: /assets/images/kerol.png
     alt: "Team member1"
     title: "DJOUMESSI Kerol"
-    excerpt: "ADD DESC"
   - image_path: /assets/images/indu.png
     alt: "Team member2"
     title: "Indu Ilanchezian"
-    excerpt: "ADD DESC"
 
 ---
 
