@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/ophthos.png
     alt: "What"
     title: "Open ophthalmoscope"
-    excerpt: "Our first task is to replicate the OIO  and improve its documentation so that ophthalmologists and other researchers with limited resources can easily mount it to collect and diagnose fundus images."
+    excerpt: "Our first task is to replicate the [OIO](https://hackaday.io/project/11943-open-indirect-ophthalmoscope) and improve its documentation so that ophthalmologists and other researchers with limited resources can easily mount it to collect and diagnose fundus images."
   - image_path: /assets/images/contribute.png
     alt: "Join us"
     title: "Join us"
