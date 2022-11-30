@@ -14,16 +14,9 @@ This project is a replication of the Open Indirect Ophthalmoscope (OIO) project.
 
 ## Licenses 
 
-|Sotware | MIT License         |
-|--------|---------------------|
-|Hardware| CERN-OHL-P-2.0      |
-|--------|---------------------|
-|Docs    |CC BY 4.0 Attribution|
-
-
-- Software is licensed under the MIT license.
-- Hardware is licensed under the CERN-OHL-P-2.0.
-- Documentation is licensed under the CC BY 4.0 Attribution 4.0 International.
+* Software is licensed under the MIT license.
+* Hardware is licensed under the CERN-OHL-P-2.0.
+* Documentation is licensed under the CC BY 4.0 Attribution 4.0 International.
 
 
 
