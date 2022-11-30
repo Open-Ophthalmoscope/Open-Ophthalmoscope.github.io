@@ -6,11 +6,11 @@ This project is a replication of the Open Indirect Ophthalmoscope (OIO) project.
 
 ## Bill of Materials
 
-| Component               | 
-| ------------------------| 
-| Raspberry Pi 3B         |
-| Raspberry Pi IR Camera  |
-| 20D diopter lens        |
+* 20D diopter lens
+* Raspberry Pi 3 B
+* Raspberry Pi NoIR camera 
+* 16 GB SD card
+* Laptop/Display 
 
 ## Licenses 
 - Software is licensed under the MIT license.
