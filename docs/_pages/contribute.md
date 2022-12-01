@@ -1,12 +1,10 @@
 ---
-title: "Contributor guidelines"
+title: "Contributor guide"
 permalink: /contribute/
 excerpt: "What are the guidelines to follow if you are interested in contributing?"
 ---
 
-# Contributor guide
-
-Welcome to your community! We are glad that you are here to contribute to our project. You can start to contribute to our project by following these guidelines. 
+Welcome to the Open Ophthalmoscope community! We are glad that you are here to contribute to our project. Here you can find a quick overview of the guidelines that you should follow for contributing to this project. 
 
 ## Guidelines for GitHub feature contributions
 
@@ -20,3 +18,7 @@ Welcome to your community! We are glad that you are here to contribute to our pr
 * Follow [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * Use [isort](https://pycqa.github.io/isort/) to sort imports
 * Use [black](https://black.readthedocs.io/en/stable/) to format python code files  
+
+## Code of conduct
+
+* [Code of conduct](/code_of_conduct/)
