@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: splash
+permalink: /
 header:
   overlay_image: /assets/images/header2.jpg
 intro: 
