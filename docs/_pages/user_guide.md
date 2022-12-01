@@ -4,8 +4,8 @@ permalink: /user_guide/
 excerpt: "Quick guide for users"
 ---
 
-## Requirements
+## Instructions for using hardware
 
-## Running the classifier app 
+## Instructions for running the software
 
 ## Troubleshooting

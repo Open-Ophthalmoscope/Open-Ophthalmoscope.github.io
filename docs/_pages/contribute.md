@@ -19,6 +19,10 @@ Welcome to the Open Ophthalmoscope community! We are glad that you are here to c
 * Use [isort](https://pycqa.github.io/isort/) to sort imports
 * Use [black](https://black.readthedocs.io/en/stable/) to format python code files  
 
+## Documentation guide
+
+* Make sure to update the documentation to keep it consistent with the code changes. 
+
 ## Code of conduct
 
 * [Code of conduct](/code_of_conduct/)

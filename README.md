@@ -22,7 +22,7 @@ This project is a replication of the Open Indirect Ophthalmoscope (OIO) project.
 |Raspberry Pi 3 model B|01|The processing unit|[link](https://www.kaufland.de/product/321724453/?kwd&source=pla&sid=44873710&gclid=CjwKCAiA9qKbBhAzEiwAS4yeDYMQf7eMDI-MsA5NXYz8t-QxbMVkXkqApIJiBAxS2Y2M2L0-Evx3iRoC8r8QAvD_BwE)|129€ |
 |Raspberry Pi NoIR camera|01|To capture image provide by the 20D lens|[link](https://www.reichelt.de/de/de/raspberry-pi-kamera-5mp-ir-fokus-ov5647-rpi-cam-noir-mf-p291477.html?PROVID=2788&gclid=Cj0KCQiAvqGcBhCJARIsAFQ5ke7NwMPgcn0rPjlEv4I6cNdbWkvPzuT7GMHEodakNRPcivYrSK19p5YaAk0hEALw_wcB&&r=1)|25.40€|
 |16 GB SD card|01|To burn Raspberry Pi OS|[link](https://www.reichelt.de/microsdhc-speicherkarte-16gb-transcend-class-10-ts16gusdhc10-p220721.html?&trstct=pos_0&nbc=1)|7,50€ |
-|Display|01|to display and visualize the images|[link](https://www.reichelt.de/raspberry-pi-shield-display-lcd-touch-5-800x480-pixel-rasp-pi-5td-wav-p227755.html?&trstct=pos_9&nbc=1)|43,95€  |
+|Display|01|To display and visualize the images|[link](https://www.reichelt.de/raspberry-pi-shield-display-lcd-touch-5-800x480-pixel-rasp-pi-5td-wav-p227755.html?&trstct=pos_9&nbc=1)|43,95€  |
 |-|-|-|-|-|
 <!---
 * How to approach the issue of material availability: create an "issue/call for participation" where we asked interested people to create a "local bill materials" where they shared which compoments they can find from their local distributors and what they needed to find replacements for
@@ -65,6 +65,10 @@ We welcome you to contribute and provide your valuable inputs to the Open Ophtha
 * Follow [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * Use [isort](https://pycqa.github.io/isort/) to sort imports
 * Use [black](https://black.readthedocs.io/en/stable/) to format python code files
+
+### Documentation guide
+
+* Make sure to update the documentation to keep it consistent with the code changes.
 
 ### Code of Conduct
 
