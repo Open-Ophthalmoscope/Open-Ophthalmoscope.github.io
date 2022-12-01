@@ -5,3 +5,14 @@ main:
     url: /contribute/
   - title: User guide
     url: /user_guide/
+  - title: "Documentation"
+    url: /documentation/
+
+
+docs:
+  - title: Raspberry Pi
+  children:
+    - title: "Setting up Raspberry Pi"
+    url: "https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/0"
+    - title; "Capturing images with Raspberry Pi and PI Camera"
+    url: ""

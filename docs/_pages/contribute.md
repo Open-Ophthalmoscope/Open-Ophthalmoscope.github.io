@@ -25,4 +25,4 @@ Welcome to the Open Ophthalmoscope community! We are glad that you are here to c
 
 ## Code of conduct
 
-* [Code of conduct](/code_of_conduct/)
+* You can find our code of conduct [here](/code_of_conduct/)
