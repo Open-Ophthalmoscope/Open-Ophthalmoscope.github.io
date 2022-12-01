@@ -1,6 +1,6 @@
 ---
 title: "Contributor guidelines"
-permalink: /contribute/
+permalink: /docs/contribute/
 excerpt: "What are the guidelines to follow if you are interested in contributing?""
 redirect_from:
   - /theme-setup/
