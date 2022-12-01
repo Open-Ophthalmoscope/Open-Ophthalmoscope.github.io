@@ -49,8 +49,6 @@ plugins:
 #   - vendor/ruby/
 
 
-include: 
-   -_docs
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
