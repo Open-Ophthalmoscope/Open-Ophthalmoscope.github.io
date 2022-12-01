@@ -1,7 +1,7 @@
 ---
 title: "Contributor guidelines"
 permalink: /contribute/
-excerpt: "What are the guidelines to follow if you are interested in contributing?""
+excerpt: "What are the guidelines to follow if you are interested in contributing?"
 ---
 
 # Contributor guide
