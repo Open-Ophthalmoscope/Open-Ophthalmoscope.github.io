@@ -51,9 +51,11 @@ plugins:
 
 include:
     - _pages
+
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
+
 footer:
   links:
     - label: "Email"
@@ -66,3 +68,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Open-Ophthalmoscope"
 
+collections:
+  howtos:
+    output: true
+    permalink: /:collection/:path/

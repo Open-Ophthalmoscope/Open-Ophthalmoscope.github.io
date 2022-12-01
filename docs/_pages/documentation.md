@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Documentation"
-permalink: /documentation/
 collection: howtos 
+permalink: /documentation/
 author_profile: false
 ---
