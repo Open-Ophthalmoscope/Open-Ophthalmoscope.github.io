@@ -10,7 +10,7 @@ main:
 
 
 docs:
-  - title: Raspberry Pi
+  - title: "Raspberry Pi"
   children:
     - title: "Setting up Raspberry Pi"
     url: "https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/0"
