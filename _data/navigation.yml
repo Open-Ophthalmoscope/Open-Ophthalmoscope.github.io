@@ -1,4 +1,6 @@
 main:
+  - title: "Bill of Materials"
+    url: /bom/
   - title: "Contribute"
     url: /contribute/
   - title: User guide
