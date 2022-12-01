@@ -1,5 +1,3 @@
 main:
   - title: "Contribute"
-    url: /docs/contribute/
-  - title: "User guides"
-    url: /docs/user_guide/
+    url: /contribute/
