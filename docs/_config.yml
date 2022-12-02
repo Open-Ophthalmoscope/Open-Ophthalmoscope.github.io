@@ -72,3 +72,17 @@ collections:
   howtos:
     output: true
     permalink: /:collection/:path/
+
+defaults:
+  # _howtos
+  - scope:
+      path: ""
+      type: howtos
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
