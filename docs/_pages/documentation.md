@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: "Documentation"
-collection: howtos 
+collection: documentation 
 permalink: /documentation/
 author_profile: false
 ---

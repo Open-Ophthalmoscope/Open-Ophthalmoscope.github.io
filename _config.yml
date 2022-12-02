@@ -69,15 +69,15 @@ footer:
       url: "https://github.com/Open-Ophthalmoscope"
 
 collections:
-  howtos:
+  documentation:
     output: true
     permalink: /:collection/:path/
 
 defaults:
-  # _howtos
+  # _documentation
   - scope:
       path: ""
-      type: howtos
+      type: documentation
     values:
       layout: single
       read_time: false
