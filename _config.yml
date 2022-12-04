@@ -77,6 +77,16 @@ defaults:
   # _documentation
   - scope:
       path: ""
+      type: tag
+    values:
+      author_profile: false
+  - scope:
+      path: ""
+      type: category
+    values:
+      comments: false
+  - scope:
+      path: ""
       type: documentation
     values:
       layout: single
@@ -88,8 +98,18 @@ defaults:
         nav: "docs"
 
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
