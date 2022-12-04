@@ -1,7 +1,6 @@
 ---
-layout: collection
 title: "Documentation"
-collection: documentation 
+layout: categories
 permalink: /documentation/
 author_profile: false
 ---
